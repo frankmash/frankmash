@@ -23,7 +23,7 @@ I'm a passionate tech enthusiast from Nairobi, Kenya. I'm exploring the world of
 
 ---
 
-### 🌍 Let's Connect
+### 🌍 Let's Connect.
 - 🖥 [Portfolio](https://github.com/frankmash)
 - 📧 [Email Me](mailto:.com)
 
