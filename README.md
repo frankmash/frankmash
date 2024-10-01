@@ -19,7 +19,7 @@ I'm a passionate tech enthusiast from Nairobi, Kenya. I'm exploring the world of
 - **Frontend**: HTML, CSS, JavaScript
 - **CMS**: WordPress
 - **Mobile Development**: Flutter (Beginner)
-- **Learning**: PHP, Python
+- **Learning**: PHP and Python
 
 ---
 
